@@ -1,3 +1,2 @@
 Hello World!
-
-hi Anjali! This is medha here.
+This is Medha here.
